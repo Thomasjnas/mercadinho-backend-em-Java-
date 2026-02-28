@@ -1,0 +1,14 @@
+/* src/index.css (GLOBAL) */
+html, body, #root {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+}
+
+body {
+  background: #eef1f4;
+  color: #1f2937;
+  font-family: "Inter", system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
